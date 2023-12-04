@@ -53,7 +53,7 @@ I just think it will be a great training challenge to port Wikitten to a more re
 Armoria is then a modernized fork foundation-based of old well-known Wikitten.
 Armoria have goal to be like Wikitten
 
- [1] a WIKI written in a custom PHP framework (a more likely customized MVC which I already developped) with no heavy needs for framework,
+ [1] a WIKI written in a custom PHP framework (a more likely customized MVC which I already developped) with no heavy needs for framework, (named as AppRunner)
 
  [2] fast with a quick deploy (with no need for MySQL, only pure PHP and then a LAP (without MySQL lol) will be needed),
 
